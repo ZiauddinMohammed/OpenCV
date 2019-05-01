@@ -1,1 +1,1 @@
-# OpenCV
+# Present application aimed at extracting the features of the input frame like foreground extraction, background reduction, edge/corner detection, feature matching and also the object detection using machine learning approach
